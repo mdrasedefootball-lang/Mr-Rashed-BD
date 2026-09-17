@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MrRashed BD</string>
+    <string name="app_subtitle">PROTECT • DETECT • DEFEND</string>
+    <string name="status_protected">আপনার ফোন সুরক্ষিত</string>
+    <string name="status_protected_desc">কোনো বিপজ্জনক বা সন্দেহজনক হুমকি পাওয়া যায়নি</string>
+    <string name="status_threat_found">হুমকি বা ঝুঁকি শনাক্ত হয়েছে</string>
+    <string name="status_threat_desc">ডিভাইস সুরক্ষিত করতে সতর্কতামূলক ব্যবস্থা নিন</string>
+</resources>

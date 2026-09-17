@@ -1,0 +1,6 @@
+{
+  "name": "MrRashed BD",
+  "description": "Full Android Security & Anti-Malware Suite: Real-time protection, APK scanner, privacy guard, device security checks, and threat response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
